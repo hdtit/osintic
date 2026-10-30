@@ -1,4 +1,4 @@
-# osintic
+# Osintic
 Osintic - Digitale Ermittlungen und die systematische Analyse öffentlich verfügbarer Informationen
 
 Oscintic unterstützt Ihre OSINT-Recherchen (Open Source Intelligence), digitale Ermittlungen und die systematische Analyse öffentlich verfügbarer Informationen.
