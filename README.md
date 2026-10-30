@@ -5,4 +5,4 @@ Oscintic unterstützt Ihre OSINT-Recherchen (Open Source Intelligence), digitale
 
 Osintic wmn ermöglicht die automatisierte Suche nach Benutzernamen auf verschiedenen Plattformen im Internet. Es können gezielt bestimmte Websites oder Kategorien von Websites ausgewählt werden. Zur Identifizierung öffentlich zugänglicher Benutzerprofile im Internet wird der Open-Source-Datensatz von WhatsMyName genutzt.
 
-Sollten Sie auf einen Fehler stoßen oder Fragen haben, wenden Sie sich bitte an unseren Support unter betterevidence@hdtit.atlassian.net oder besuchen Sie https://hdtit.atlassian.net/servicedesk/customer/portal/36, um Hilfe zu erhalten.
+Sollten Sie auf einen Fehler stoßen oder Fragen haben, wenden Sie sich bitte an unseren Support unter osintic@hdtit.atlassian.net oder besuchen Sie https://hdtit.atlassian.net/servicedesk/customer/portal/69, um Hilfe zu erhalten.
